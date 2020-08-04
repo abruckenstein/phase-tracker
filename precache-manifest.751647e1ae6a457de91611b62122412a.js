@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "64cdf881bfbc3a52c81c319f5e98e33d",
+    "revision": "b39b7218e2be7cf3691728419ebf9bc3",
     "url": "/phase-tracker/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/phase-tracker/static/css/2.af3c1da9.chunk.css"
   },
   {
-    "revision": "0edcc9a70209ce3f0e48",
-    "url": "/phase-tracker/static/css/main.c6c8ec20.chunk.css"
+    "revision": "7abe21ee11487e8fbc51",
+    "url": "/phase-tracker/static/css/main.e1f4f62d.chunk.css"
   },
   {
     "revision": "7554bb80ee344fd24653",
@@ -20,7 +20,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/phase-tracker/static/js/2.44f96a17.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "0edcc9a70209ce3f0e48",
+    "revision": "7abe21ee11487e8fbc51",
     "url": "/phase-tracker/static/js/main.74a92eab.chunk.js"
   },
   {
