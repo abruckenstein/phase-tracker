@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/phase-tracker/static/css/main.5f361e03.chunk.css",
+    "main.js": "/phase-tracker/static/js/main.5bb3f025.chunk.js",
+    "main.js.map": "/phase-tracker/static/js/main.5bb3f025.chunk.js.map",
+    "runtime-main.js": "/phase-tracker/static/js/runtime-main.25968644.js",
+    "runtime-main.js.map": "/phase-tracker/static/js/runtime-main.25968644.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/phase-tracker/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.5ff902f7.chunk.js": "/phase-tracker/static/js/2.5ff902f7.chunk.js",
+    "static/js/2.5ff902f7.chunk.js.map": "/phase-tracker/static/js/2.5ff902f7.chunk.js.map",
+    "index.html": "/phase-tracker/index.html",
+    "precache-manifest.be51a7ae19c272709ca0d73fd0ab74cf.js": "/phase-tracker/precache-manifest.be51a7ae19c272709ca0d73fd0ab74cf.js",
+    "service-worker.js": "/phase-tracker/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/phase-tracker/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.5f361e03.chunk.css.map": "/phase-tracker/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.5ff902f7.chunk.js.LICENSE.txt": "/phase-tracker/static/js/2.5ff902f7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.25968644.js",
+    "static/css/2.af3c1da9.chunk.css",
+    "static/js/2.5ff902f7.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.5bb3f025.chunk.js"
+  ]
+}
