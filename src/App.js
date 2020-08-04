@@ -18,12 +18,10 @@ class App extends React.Component
   {
     return (
       <div>
-        <div className="App">
-          <header className="App-header" style={{height: '100%'}}>
-            <div>
-              <CardDeck style={{display: 'flex', flexDirection: 'column', maxHeight:'80%'}}>
+        <div className="App" style={{maxHeight: '95vh'}}>
+          <header className="App-header" style={{height: '90vh'}}>
+            <div style={{display: 'flex', flexDirection: 'column', maxHeight:'90vh'}}>
               {this.createCards()}
-              </CardDeck>
             </div>
             <Button variant="primary" onClick={this.increment}>
               Next
@@ -50,10 +48,10 @@ class App extends React.Component
 
     let cards = Object.keys(cardObjects).map((key) =>
     {
-      return <Card style={{ }} text="dark" className="mb-2" bg={this.state.counter == key ? "" : "secondary"}>
+      return <Card style={{ flex:1, maxHeight: '12%'}} text="dark" className="mb-2" bg={this.state.counter == key ? "" : "secondary"}>
         <Card.Body>
-          <Card.Title style={{fontSize: 30}}>{cardObjects[key].title}</Card.Title>
-          <Card.Text style={{fontSize: 20}}>{cardObjects[key].description}</Card.Text>
+          <Card.Title style={{fontSize: '1.3vw'}}>{cardObjects[key].title}</Card.Title>
+          <Card.Text style={{fontSize: '.99vw'}}>{cardObjects[key].description}</Card.Text>
         </Card.Body>
       </Card>
     })
