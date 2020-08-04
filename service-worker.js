@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/phase-tracker/precache-manifest.4b64ab6fcbf244809d62b963388bc373.js"
+  "/phase-tracker/precache-manifest.4cb4ca6050bddd479d6e9f14f0aa9ac2.js"
 );
 
 self.addEventListener('message', (event) => {
